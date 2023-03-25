@@ -1,0 +1,5 @@
+y004=VariableNode(0)
+y003=ConstantNode(4.0)
+y002=MultiplicationNode(y003,y004)
+y001=ConstantNode(3.0)
+y000=MinusNode(y001,y002)
